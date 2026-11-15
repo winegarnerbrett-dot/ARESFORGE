@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" fill="none">
+  <rect width="512" height="512" rx="112" fill="#0F172A"/>
+  <!-- Outer Tactical Shield Frame -->
+  <path d="M256 64L404 120V252C404 344 338 416 256 448C174 416 108 344 108 252V120L256 64Z" stroke="#2563EB" stroke-width="18" stroke-linejoin="round" fill="#1E293B"/>
+  <!-- Spartan Corinthian Crest Plume -->
+  <path d="M236 86L256 54L276 86L268 134H244L236 86Z" fill="#E2E8F0"/>
+  <!-- Corinthian Helmet Dome & Cheek Plates -->
+  <path d="M256 122C206 122 170 158 170 206V280L212 326V242L196 226V198L244 218V274L256 290L268 274V218L316 198V226L300 242V326L342 280V206C342 158 306 122 256 122Z" fill="#F8FAFC"/>
+  <!-- Tactical Twin Chevrons -->
+  <path d="M138 304L256 382L374 304V334L256 412L138 334V304Z" fill="#2563EB"/>
+  <path d="M158 346L256 410L354 346V372L256 436L158 372V346Z" fill="#94A3B8"/>
+</svg>

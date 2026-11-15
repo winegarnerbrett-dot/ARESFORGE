@@ -1,0 +1,10 @@
+{
+  "name": "Remix ARESFORGE",
+  "description": "Mobile-first workout program builder, nutrition tracker with live barcode scanning, and health progress dashboard.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
